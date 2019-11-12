@@ -24,3 +24,4 @@ thesis.synctex*
 *.dict
 .vscode
 thesis.pdf.zip
+!test_2016-11-16_2016-12-17_ts.pdf
